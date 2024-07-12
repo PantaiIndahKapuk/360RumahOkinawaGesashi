@@ -11,15 +11,15 @@ tour.name = Rumah Okinawa Gesashi
 
 ### Title
 album_F263B8A7_BB27_DFDE_4193_6CAC4FD1824B.label = Photo Album ProjectPIK2 (AreaEcopark)_ViewGerejaBEV_Draft01
-map_B528FA36_A29F_34C1_41E2_59F2B15F90AA.label = Lantai 1
-map_B8A8D122_A292_D4C1_41DD_91DAD238BDAD.label = Lantai 2
-map_B8AB1447_A292_FD4F_41DB_289B5B0FC9F7.label = Lantai 3
+map_A8014805_A5B2_750F_41C1_6490353EA37C.label = Lantai 1
+map_A8069AF6_A5B2_350D_41B0_B71E45F55C43.label = Lantai 2
+map_ABA9E8CC_A5B2_351D_41E2_3D3AA2C04269.label = Lantai 3
 panorama_82660435_A2B7_DCC3_41E0_72B8A8DB9EE3.label = Balkon
 panorama_A876D1CA_A509_2523_41DC_2576BACFD361.label = Ruang Kamar Anak Lt 2 B
 panorama_A9F3B589_A509_6D20_41C1_0B55E14E4E2B.label = Ruang Kamar Anak Lt 2 A
+panorama_AB2398AB_A5B2_351B_41DC_AF1172706EDE.label = Ruang Tamu
 panorama_B06FBA79_A51B_E7E0_41B7_F24C69F20522.label = Tampak Depan
 panorama_B3D434DA_A29E_DD40_41E0_5D8325503AB4.label = Ruang Kerja
 panorama_B3D448E3_A29D_7540_41D2_CF4A03894E1B.label = Ruang Kamar Lt2 
 panorama_B3D7FD80_A29D_2FC1_41DE_E28C57646ECA.label = Ruang Kamar Lt 3
 panorama_B3DD5FA3_A29D_6BC7_41D1_505C52AD3E4C.label = Ruang Keluarga
-panorama_BDA6CB6D_A2B3_EB40_41D9_A2171387FDD9.label = Ruang Tamu

@@ -20,6 +20,6 @@ panorama_C7C2C8CA_CB5C_60AD_41DB_FD692B24034D.label = Kamar Utama
 panorama_C7C6CAA0_CB5D_A09C_41A6_D9BE249B2728.label = Kamar Tidur Anak 2
 panorama_C7CEFBFB_CB5C_6063_41C1_D174171B7316.label = Kamar Tidur Tamu
 panorama_F6B1DA5A_EEB8_871B_41E1_B4D2A170A36D.label = Tampak Depan
-panorama_F951381F_EEB8_8319_41E6_072D061E8A70.label = Ruang Tamu
 panorama_F95A534F_EEBB_8579_41D5_0CE9D4CE710D.label = Ruang Keluarga
 panorama_F98C2168_EEBB_8527_41EB_D34619DF4D80.label = Ruang Kerja
+panorama_FA25D6E8_EE79_C1A6_41DA_5ACF4397E1B8.label = Ruang Tamu
